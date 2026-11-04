@@ -1,0 +1,500 @@
+   21  cd Ambiente de trabalho
+   22  cd Desktop
+   23  cd /Desktop/Aulas IC/ic-git-exercicio
+   24  cd ic-git-exercicio
+   25  cd Desktop
+   26  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio"
+   27  git init
+   28  touch README.me
+   29  git status
+   30  git add README.me
+   31  git status
+   32  git commit -m "Cria README inicial"
+   33  git status
+   34  git remote add origin "https://github.com/JoseMPaulo/ic-git-exercicio"
+   35  git add origin https://github.com/JoseMPaulo/ic-git-exercicio
+   36  git branch -M main
+   37  git push -u origin main
+   38  git push -u origin main
+   39  git status
+   40  git diff
+   41  git status
+   42  git diff
+   43  git status git diff
+   44  pwd
+   45  git remote add origin https://github.com/JoseMPaulo/ic-git-exercicio
+   46  git remote add origin https://github.com/JoseMPaulo/ic-git-exercicio
+   47  git status
+   48  git remote add origin https://github.com/JoseMPaulo/ic-git-exercicio.git
+   49  cd C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio
+   50  cd C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio
+   51  cd C:\Users\josem\OneDrive\Documents\ic-git-exercicio7
+   52  cd C:\Users\josem\OneDrive\Documents\ic-git-exercicio
+   53  cd C:\Users\josem\OneDrive\Documents\ic-git-exercicio
+   54  cd Documents
+   55  cd ic-git-exercicio
+   56  cd ic-git-exercicio
+   57  cd C:\Users\josem\OneDrive\Documents
+   58  cd Documents/ic-git-exercicio
+   59  /cd Documents
+   60  cdC:\Users\josem\OneDrive\Documents\ic-git-exercicio
+   61  cd C:\Users\josem\OneDrive\Documents\ic-git-exercicio
+   62  cd C:\Users\josem\OneDrive\Documents\ic-git-exercicio
+   63  cd C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio
+   64  cdC:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio
+   65  cd C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio
+   66  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio"
+   67  git init
+   68  touch README.me
+   69  gitstatus
+   70  git status
+   71  git add README.me
+   72  git status
+   73  git commit -m "Cria README inicial"
+   74  git status
+   75  git remote addd origin "https://github.com/JoseMPaulo/ic-git-exercicio.git"
+   76  git remote add origin https://github.com/JoseMPaulo/ic-git-exercicio.git
+   77  git branch -M main
+   78  git push -u origin main
+   79  git status
+   80  git diff
+   81  git status
+   82  git status
+   83  git add .
+   84  git commit -m "Mudar extenção de README"
+   85  git push -u origin main
+   86  git pull 
+   87  git push -u origin main
+   88  git push -u --force origin main
+   89  git diff
+   90  git add README.md
+   91  git status
+   92  git push -u origin main
+   93  git status
+   94  git commit -m "Adiciona funcionalidades ao README"
+   95  git status
+   96  pwd
+   97  git status
+   98  git diff
+   99  git status
+  100  git add .
+  101  gt commid -m "Adiciona funcionalidades ao README"
+  102  git commit -m "Adiciona funciuonalidades ao README"
+  103  git push -u origin main
+  104  touch NOTAS.txt
+  105  git add NOTAS.txt
+  106  git commit -m "Notas"
+  107  git mv NOTAS.txt APONTAMENTOS.txt
+  108  git status
+  109  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\ic-git-exercicio"
+  110  git status
+  111  git push -u origin main
+  112  git status
+  113  git restore --staged APONTAMENTOS.txt to unstage
+  114  git restore --staged NOTAS.txt 
+  115  git status
+  116  git push -u origin main
+  117  git status
+  118  git add -A
+  119  git status
+  120  git commit -m "Renomear NOTAS para APONTAMENTOS"
+  121  git push -u origin main
+  122  git rm APONTAMENTOS.txt
+  123  git commit "Remoção de APONTAMENTOS"
+  124  git commit -m "Remoção de APONTAMENTOS"
+  125  git push -u origin main
+  126  pwd
+  127  git pull
+  128  git status
+  129  git commit -m "README update"
+  130  add -A
+  131  git add -A
+  132  git commit -m "README update"
+  133  git push
+  134  git status
+  135  git log --oneline
+  136  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\clone"
+  137  git clone "https://github.com/JoseMPaulo/ic-git-exercicio"
+  138  cd ic-git-exercicio
+  139  git log --oneline
+  140  git add 
+  141  git status
+  142  git add -A
+  143  git commit -m "Alteração no README"
+  144  git push -u origin main
+  145  git log --oneline
+  146  git commit -m "Alteração do README"
+  147  it status
+  148  git status
+  149  git add -A
+  150  git commit -m "README update"
+  151  git push -u origin main
+  152  cd ../..
+  153  cd ic-git-exercicio
+  154  git pull
+  155  git log --oneline
+  156  cat README.md
+  157  cd ../clone/ic-git-exercicio
+  158  git log --oneline
+  159  cat README.md
+  160  cat README.md
+  161  git add -A
+  162  git commit -m "README update"
+  163  git push -u origin main
+  164  cd ../ic-git-exercicio
+  165  cd ../../ic-git-exercicio
+  166  git pull
+  167  cd ../clone/ic-git-exercicio
+  168  git pull
+  169  git add -A
+  170  git commit -m "README update"
+  171  git push
+  172  git push
+  173  git pull
+  174  git status
+  175  git add README.md
+  176  git commit -m "Resolve conflito no README"
+  177  git push
+  178  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\Aulas_IC\clone\ic-git-exercicio"
+  179  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\git_jogo"
+  180  git pull 
+  181  git innit
+  182  git init
+  183  add origin
+  184  git remote add origin "https://github.com/JoseMPaulo/Informa-o-sobre-jogo.git"
+  185  git pull
+  186  git branch daniel
+  187  touch README.md
+  188  git commit -m "Markdown"
+  189  git add -A
+  190  git push -u origin main
+  191  git status
+  192  git push -u origin main
+  193  git add README.md
+  194  git push -u origin main
+  195  git branch daniel
+  196  git status
+  197  git branch -M daniel 
+  198  git branch -M martim 
+  199  git branch -M jose
+  200  git push -u origin main
+  201  git branch -M main
+  202  git push -u origin main
+  203  git status
+  204  git commmit -m "Markdown"
+  205  git commit -m "Markdown"
+  206  git push -u origin main
+  207  git branch daniel
+  208  git branch martim 
+  209  ǵit branch jose
+  210  git branch jose
+  211  git status
+  212  git push -u origin main
+  213  git branch jose
+  214  git switch jose
+  215  git status
+  216  git push -u origin main
+  217  git push
+  218  git push -u origin jose
+  219  git push -u origin daniel
+  220  git push -u origin martim
+  221  status
+  222  git status
+  223  git switch daniel
+  224  git switch jsoe
+  225  git switch daniel
+  226  git switch daniel
+  227  git branch -d daniel
+  228  git branch -D daniel
+  229  git branch
+  230  git switch main
+  231  git branch -d daniel
+  232  git branch -d martim
+  233  git switch jose
+  234  git status
+  235  git push -u origin daniel
+  236  git push origin delete --origin daniel martim
+  237  git push origin --delete daniel martim
+  238  git add .gitignore .gitattributes
+  239  git add "C:\Users\josem\Downloads\gitfiles.zip" .gitignore .gitattributes
+  240  git add .gitignore .gitattributes
+  241  git push -u origin main
+  242  git status
+  243  git restore --staged .gitignore .gitattributed
+  244  git restore --staged .gitignore .gitattributes
+  245  git switch main
+  246  git add .gitignore .gitattributes
+  247  git commit -m "git ignore e git attributes"
+  248  git push -u origin main
+  249  git switch jose
+  250  git add README.md
+  251  Git commit -m "Markdown update"
+  252  git status
+  253  git commit -m "MarkDown update"
+  254  git status
+  255  git add README.md
+  256  git status
+  257  git status
+  258  git add README.md
+  259  git status
+  260  git commit -m "MarkDown update"
+  261  git push -u origin jose
+  262  pwd
+  263  git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git
+  264  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\IC_aula_8_P_exercicios"
+  265  ls
+  266  ls
+  267  cd ..
+  268  rmdir IC_aula_8_P_exercicios
+  269  mv "C\Users\josem\onedrive\Ambiente de Trabalho\IC_aula_8_P_exercicios"
+  270  $ mv "C\Users\josem\onedrive\Ambiente de Trabalho\IC_aula_8_P_exercicios" "C:\Users\josem\OneDrive\Ambiente de Trabalho\ic_2310"
+  271   mv "C\Users\josem\onedrive\Ambiente de Trabalho\IC_aula_8_P_exercicios" "C:\Users\josem\OneDrive\Ambiente de Trabalho\ic_2310"
+  272  pwd
+  273  cd ic_2310
+  274  git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git
+  275  cd IC_aula_8_P_exercicios
+  276  ls
+  277  cd assets
+  278  ls
+  279  cd ..
+  280  git remote add origin "https://github.com/JoseMPaulo/ic_2310.git"
+  281  git remote add pessoal "https://github.com/JoseMPaulo/ic_2310.git"
+  282  git lfs install
+  283  git status
+  284  git pull
+  285  ls
+  286  cd assets/
+  287  ls
+  288  git status
+  289  git remote set -url origin "https://github.com/JoseMPaulo/ic_2310.git"
+  290  git remote set-url origin "https://github.com/JoseMPaulo/ic_2310.git"
+  291  git lfs migrate --include"*.png" --everything
+  292  git lfs migrate import --everything
+  293  git lfs migrate import --include="*.png" --everything
+  294  git status
+  295  git remote
+  296  git remote origin
+  297  git status
+  298  git push
+  299  ls
+  300  ćd ..
+  301  cd ..
+  302  ls
+  303  git lfs ls-files
+  304  cat .gitattributes
+  305  git lfs migrate export --include="*.md" --everything
+  306  cat .gitattributes
+  307  git pudh
+  308  git push
+  309  git stauts
+  310  git status
+  311  git pull
+  312  cat .gitattributes
+  313  git lfs ls-files
+  314  cd ..
+  315  rm -rf IC_aula_8_P_exercicios
+  316  git clone https://github.com/rafaeldavidjose/IC_aula_8_P_exercicios.git
+  317  cd IC_aula_8_P_exercicios
+  318  git lfs migrate import --include="*.png" --everything
+  319  cat .goitattributes
+  320  cat .gitattributes
+  321  git fls ls-files
+  322  git lfs ls-files
+  323  git remote add pessoal https://github.com/JoseMPaulo/NOME-DO-TEU-REPO.git
+  324  git remote add pessoal https://github.com/JoseMPaulo/ic_2310
+  325  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\git_jogo"
+  326  git switch main
+  327  git switch jose
+  328  ls
+  329  code README.md
+  330  git status
+  331  git add README.md 
+  332  git add imagens/
+  333  git commit -m "Update markdown 2
+  334  "
+  335  git push -u origin jose
+  336  git switch main
+  337  git pull
+  338  git merge Daniel
+  339  git merge origin/Daniel
+  340  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\git_jogo"
+  341  git merge origin/Martim
+  342  git commit -m "end"
+  343  git merge origin/Martim
+  344  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\git_jogo"
+  345  git commit -m "end 2"
+  346  git merge origin/jose
+  347  rm README-md
+  348  cat README.md
+  349  git add README.md
+  350  git commit -m "merge jose"
+  351  git push
+  352  mv under.png imagens/
+  353  git status
+  354  git add -A
+  355  git status
+  356  git commit -m "ficheiro png para pasta imagens"
+  357  git push
+  358  git add README.md
+  359  git commit -m "Final"
+  360  git push
+  361  rm NDERTALE.MD undertale.md
+  362  git status
+  363  git add imagens/
+  364  git status
+  365  git add Soulles_ending.png
+  366  git push
+  367  giut status
+  368  git status
+  369  git add/rm NDERTALE.md undertale.md
+  370  git rm NDERTALE.md undertale.md
+  371  git add Soulless_ending.png
+  372  git push
+  373  git status
+  374  git commit -m "final final"
+  375  git push
+  376  git status
+  377  git add imagens/Soulless_ending.png
+  378  git status
+  379  git push
+  380  git commit -m "final"
+  381  git push
+  382  git status
+  383  git rm Soulless_ending.png
+  384  git statsu
+  385  git status
+  386  git commit "final final final"
+  387  git commit -m "final final final"
+  388  git push
+  389  git status
+  390  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\ic_2310\IC_aula_8_P_exercicios"
+  391  git remote -v
+  392  git remote set-url origin "https://github.com/JoseMPaulo/ic_2310"
+  393  git remote -v
+  394  ǵit remote set-url pessoal "https://github.com/JoseMPaulo/ic_2310"
+  395  git remote set-url pessoal "https://github.com/JoseMPaulo/ic_2310"
+  396  git remote -v
+  397  git lfs ls-files
+  398  ls
+  399  git branch feat_1
+  400  git switch feat_1
+  401  git status
+  402  add README_modelo.md
+  403  git add README_modelo.md
+  404  git commit -m "dados aluno"
+  405  git push -u origin feat_1
+  406  gti switch main
+  407  git switch main
+  408  git add README_modelo.md
+  409  git commit -m "dados aluno"
+  410  git push
+  411  git status
+  412  git push -f
+  413  git checkout main
+  414  git pull origin main
+  415  git branch fiz_1
+  416  git switch fix_1
+  417  git branch -d fiz_1
+  418  git branch fix_1
+  419  git switch fix_1
+  420  git add README_modelo.md
+  421  git commit -m "Alteração de linha"
+  422  git swtich main
+  423  git switch main
+  424  git add README_modelo
+  425  git add README_modelo.md
+  426  git commit -m "incompativel"
+  427  git switch fix_1
+  428  git rebase
+  429  git rebase main
+  430  git add README_modelo.md
+  431  git rebase --continue
+  432  git push -u origin fix_1
+  433  git log
+  434  git log 
+  435  git log --oneline --graph --all
+  436  git switch main
+  437  git push 
+  438  touch teste.txt
+  439  git status
+  440  git add teste.txt
+  441  git statu
+  442  git status
+  443  git commit -m "Ficheiro teste"
+  444  git status
+  445  git rm teste.txt
+  446  git status
+  447  git commit -m "Remoção do teste.txt"
+  448  git status
+  449  git remote-v
+  450  git remote -v
+  451  git status
+  452  git push
+  453  git pull origin main
+  454  git log --oneline
+  455  git branch feat_2
+  456  git status
+  457  git add assets/jackie_welles.png
+  458  lfs ls-files
+  459  fls ls-files
+  460  git lfs ls-files
+  461  git commit -m "imagem nova"
+  462  gti switch main
+  463  git reset --spft HEAD~1
+  464  git reset --soft HEAD~1
+  465  git status
+  466  git restore --staged assets/jackie_welles.png
+  467  git status
+  468  git switch feat_2
+  469  git add assets/jackie_welles.png
+  470  git commit -m "Nova imagem"
+  471  git lfs ls-files
+  472  git add.gitattributes
+  473  git add .gitattributes
+  474  git status
+  475  git lfs ls-files
+  476  git switch main
+  477  git add README.md
+  478  git commit -m "Revisao ex-7"
+  479  git push origin  main
+  480  git switch feat_2
+  481  git rebase main
+  482  git push origin feat_2
+  483  git switch main
+  484  git merge feat_2
+  485  git push origin main
+  486  git log --oneline --graph
+  487  git pull
+  488  cd "C:\Users\josem\OneDrive\Ambiente de Trabalho\ic_2310\IC_aula_8_P_exercicios"
+  489  git branch
+  490  mkdir IC_LC_A_22603093
+  491  cd IC_LC_A_226033093
+  492  cd IC_LC_A_22603093
+  493  git init
+  494  touch script.sh
+  495  cd script.sh
+  496  echo '#!/bin/bash' > script.sh
+  497  echo 'touch README.md' >> script.sh
+  498  ls
+  499  echo 'ls' >> script.sh
+  500  cat
+  501  pwd
+  502  cd IC_LC_A_22603093
+  503  cat script.sh
+  504  rm 'ls' > script.sh
+  505  rm setup.sh
+  506  touch setup.sh
+  507  echo '!#/bin/bash'
+  508  echo '!#/bin/bash' > setup.sh
+  509  echo 'touch README.md' >> setup.sh
+  510  echo 'pwd' >> setup.sh
+  511  echo 'cat setup.sh' >> setup.sh
+  512  chmod setup.sh
+  513  chmod +x setup.sh
+  514  ls
+  515  cat setup.sh
+  516  ./ setup.sh
+  517  ./setup.sh
+  518  ls
+  519  ls
+  520  history > historico.txt
